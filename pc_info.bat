@@ -1,12 +1,6 @@
 @ echo off
 
 title GetInfo(); By Tanny!&cls&
-echo ============================================================================&
-echo  #Get_Info(); #&
-
-echo # By Tanny#&
-echo ============================================================================&
-
 
 color 9 
 wmic baseboard list brief
